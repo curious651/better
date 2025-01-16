@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writings on Better Contexts</title>
-    <link>https://github.com/curious651/better.git/writing/</link>
+    <link>https://curious651.github.io/better/writing/</link>
     <description>Recent content in Writings on Better Contexts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 chris</copyright>
-    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/curious651/better.git/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://curious651.github.io/better/writing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>another-article</title>
-      <link>https://github.com/curious651/better.git/writing/1737025921960-another-article/</link>
+      <link>https://curious651.github.io/better/writing/1737025921960-another-article/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/curious651/better.git/writing/1737025921960-another-article/</guid>
+      <guid>https://curious651.github.io/better/writing/1737025921960-another-article/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://github.com/curious651/better.git/writing/1737025921960-another-article/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://curious651.github.io/better/writing/1737025921960-another-article/featured.png" />
     </item>
     
     <item>
       <title>new-article</title>
-      <link>https://github.com/curious651/better.git/writing/1737025913760-new-article/</link>
+      <link>https://curious651.github.io/better/writing/1737025913760-new-article/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/curious651/better.git/writing/1737025913760-new-article/</guid>
+      <guid>https://curious651.github.io/better/writing/1737025913760-new-article/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://github.com/curious651/better.git/writing/1737025913760-new-article/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://curious651.github.io/better/writing/1737025913760-new-article/featured.png" />
     </item>
     
     <item>
       <title>third-article</title>
-      <link>https://github.com/curious651/better.git/writing/1737027846667-third-article/</link>
+      <link>https://curious651.github.io/better/writing/1737027846667-third-article/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/curious651/better.git/writing/1737027846667-third-article/</guid>
+      <guid>https://curious651.github.io/better/writing/1737027846667-third-article/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://github.com/curious651/better.git/writing/1737027846667-third-article/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://curious651.github.io/better/writing/1737027846667-third-article/featured.png" />
     </item>
     
   </channel>
