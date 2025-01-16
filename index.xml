@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blowfish</title>
+    <title>Better Contexts</title>
     <link>https://github.com/curious651/better.git/</link>
-    <description>Recent content on Blowfish</description>
+    <description>Recent content on Better Contexts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
+    <copyright>© 2025 chris</copyright>
     <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/curious651/better.git/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -47,6 +47,16 @@
       <guid>https://github.com/curious651/better.git/reading/1737025928239-new-book/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://github.com/curious651/better.git/reading/1737025928239-new-book/featured.png" />
+    </item>
+    
+    <item>
+      <title>third-article</title>
+      <link>https://github.com/curious651/better.git/writing/1737027846667-third-article/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/curious651/better.git/writing/1737027846667-third-article/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://github.com/curious651/better.git/writing/1737027846667-third-article/featured.png" />
     </item>
     
   </channel>
