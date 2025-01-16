@@ -21,6 +21,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://curious651.github.io/better/writing/extra-post/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://curious651.github.io/better/writing/1737025913760-new-article/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -34,6 +40,12 @@
   </url>
   <url>
     <loc>https://curious651.github.io/better/reading/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://curious651.github.io/better/writing/1737036049653-testing-article/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
