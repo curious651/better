@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on Blowfish</title>
+    <link>https://example.org/tags/tag/</link>
+    <description>Recent content in Tag on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>another-article</title>
+      <link>https://example.org/writing/1737025921960-another-article/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/writing/1737025921960-another-article/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/writing/1737025921960-another-article/featured.png" />
+    </item>
+    
+    <item>
+      <title>another-book</title>
+      <link>https://example.org/reading/1737025934705-another-book/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/reading/1737025934705-another-book/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/reading/1737025934705-another-book/featured.png" />
+    </item>
+    
+    <item>
+      <title>new-article</title>
+      <link>https://example.org/writing/1737025913760-new-article/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/writing/1737025913760-new-article/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/writing/1737025913760-new-article/featured.png" />
+    </item>
+    
+    <item>
+      <title>new-book</title>
+      <link>https://example.org/reading/1737025928239-new-book/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/reading/1737025928239-new-book/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/reading/1737025928239-new-book/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
