@@ -3,6 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://curious651.github.io/better/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://curious651.github.io/better/writing/1737408217409-idontknow/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://curious651.github.io/better/writing/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://curious651.github.io/better/writing/1737025921960-another-article/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -10,12 +28,6 @@
   </url>
   <url>
     <loc>https://curious651.github.io/better/reading/1737025934705-another-book/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://curious651.github.io/better/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -52,12 +64,6 @@
   </url>
   <url>
     <loc>https://curious651.github.io/better/writing/1737027846667-third-article/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://curious651.github.io/better/writing/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
