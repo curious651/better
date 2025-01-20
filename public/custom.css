@@ -1,0 +1,41 @@
+/* Basic Sidenote Style */
+.sidenote {
+  display: inline-block;
+  position: relative;
+  font-size: 0.9em;
+  color: #555;
+  background-color: #f0f0f0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-left: 10px;
+  line-height: 1.5;
+}
+
+.sidenote:before {
+  content: "[^]";
+  font-size: 1.2em;
+  margin-right: 5px;
+  color: #3498db;
+}
+
+.sidenote:hover {
+  background-color: #e0e0e0;
+  cursor: pointer;
+}
+
+.sidenote:hover:after {
+  content: attr(data-note);
+  position: absolute;
+  top: 0;
+  left: 100%;
+  width: 250px;
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 0.85em;
+  white-space: normal;
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.3s ease;
+}
