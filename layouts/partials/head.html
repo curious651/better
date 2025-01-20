@@ -1,17 +1,4 @@
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{{ .Title }}</title>
-
-  <!-- Default theme styles (make sure not to remove these) -->
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
-
-  <!-- Your custom styles -->
-  <link rel="stylesheet" href="{{ "custom.css" | relURL }}">
-</head>
-
-
-<head>
   <meta charset="utf-8" />
   {{ with .Site.Language.Params.htmlCode | default .Site.LanguageCode }}
   <meta http-equiv="content-language" content="{{ . }}" />
