@@ -32,6 +32,8 @@
   <link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink ($.Site.Title | emojify) |
   safeHTML }}
   {{ end -}}
+  <!-- Add the custom.css directly for testing -->
+  <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}" />
   {{/* Asset bundles */}}
   {{ $assets := newScratch }}
   {{ $cssScheme := resources.Get (printf "css/schemes/%s.css" (.Site.Params.colorScheme | default "blowfish")) }}
